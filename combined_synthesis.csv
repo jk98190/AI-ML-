@@ -1,0 +1,292 @@
+source_file,group,metric,value
+AI_Impact_on_Jobs_2030.csv,High | Bachelor's,n,188.0
+AI_Impact_on_Jobs_2030.csv,High | High School,n,187.0
+AI_Impact_on_Jobs_2030.csv,High | Master's,n,188.0
+AI_Impact_on_Jobs_2030.csv,High | PhD,n,177.0
+AI_Impact_on_Jobs_2030.csv,Low | Bachelor's,n,190.0
+AI_Impact_on_Jobs_2030.csv,Low | High School,n,182.0
+AI_Impact_on_Jobs_2030.csv,Low | Master's,n,188.0
+AI_Impact_on_Jobs_2030.csv,Low | PhD,n,179.0
+AI_Impact_on_Jobs_2030.csv,Medium | Bachelor's,n,387.0
+AI_Impact_on_Jobs_2030.csv,Medium | High School,n,415.0
+AI_Impact_on_Jobs_2030.csv,Medium | Master's,n,359.0
+AI_Impact_on_Jobs_2030.csv,Medium | PhD,n,360.0
+AI_Impact_on_Jobs_2030.csv,High | Bachelor's,avg_salary,87616.6755319149
+AI_Impact_on_Jobs_2030.csv,High | High School,avg_salary,83841.4385026738
+AI_Impact_on_Jobs_2030.csv,High | Master's,avg_salary,90989.22872340426
+AI_Impact_on_Jobs_2030.csv,High | PhD,avg_salary,86947.61581920904
+AI_Impact_on_Jobs_2030.csv,Low | Bachelor's,avg_salary,87420.5947368421
+AI_Impact_on_Jobs_2030.csv,Low | High School,avg_salary,93598.39010989013
+AI_Impact_on_Jobs_2030.csv,Low | Master's,avg_salary,90892.60638297872
+AI_Impact_on_Jobs_2030.csv,Low | PhD,avg_salary,84701.77653631284
+AI_Impact_on_Jobs_2030.csv,Medium | Bachelor's,avg_salary,90082.70284237726
+AI_Impact_on_Jobs_2030.csv,Medium | High School,avg_salary,88154.09638554217
+AI_Impact_on_Jobs_2030.csv,Medium | Master's,avg_salary,91714.0947075209
+AI_Impact_on_Jobs_2030.csv,Medium | PhD,avg_salary,92236.90555555555
+AI_Impact_on_Jobs_2030.csv,High | Bachelor's,avg_automation_prob,0.8320744680851064
+AI_Impact_on_Jobs_2030.csv,High | High School,avg_automation_prob,0.8255080213903744
+AI_Impact_on_Jobs_2030.csv,High | Master's,avg_automation_prob,0.8246808510638297
+AI_Impact_on_Jobs_2030.csv,High | PhD,avg_automation_prob,0.8361016949152543
+AI_Impact_on_Jobs_2030.csv,Low | Bachelor's,avg_automation_prob,0.1791052631578947
+AI_Impact_on_Jobs_2030.csv,Low | High School,avg_automation_prob,0.1819780219780219
+AI_Impact_on_Jobs_2030.csv,Low | Master's,avg_automation_prob,0.1689361702127659
+AI_Impact_on_Jobs_2030.csv,Low | PhD,avg_automation_prob,0.176536312849162
+AI_Impact_on_Jobs_2030.csv,Medium | Bachelor's,avg_automation_prob,0.4969250645994832
+AI_Impact_on_Jobs_2030.csv,Medium | High School,avg_automation_prob,0.5099036144578314
+AI_Impact_on_Jobs_2030.csv,Medium | Master's,avg_automation_prob,0.4944011142061281
+AI_Impact_on_Jobs_2030.csv,Medium | PhD,avg_automation_prob,0.4965555555555555
+AI_Impact_on_Jobs_2030.csv,High | Bachelor's,avg_ai_exposure,0.5095212765957448
+AI_Impact_on_Jobs_2030.csv,High | High School,avg_ai_exposure,0.5017112299465241
+AI_Impact_on_Jobs_2030.csv,High | Master's,avg_ai_exposure,0.515904255319149
+AI_Impact_on_Jobs_2030.csv,High | PhD,avg_ai_exposure,0.5123728813559322
+AI_Impact_on_Jobs_2030.csv,Low | Bachelor's,avg_ai_exposure,0.4982631578947368
+AI_Impact_on_Jobs_2030.csv,Low | High School,avg_ai_exposure,0.4956593406593406
+AI_Impact_on_Jobs_2030.csv,Low | Master's,avg_ai_exposure,0.4884574468085106
+AI_Impact_on_Jobs_2030.csv,Low | PhD,avg_ai_exposure,0.5020670391061453
+AI_Impact_on_Jobs_2030.csv,Medium | Bachelor's,avg_ai_exposure,0.489328165374677
+AI_Impact_on_Jobs_2030.csv,Medium | High School,avg_ai_exposure,0.4965060240963855
+AI_Impact_on_Jobs_2030.csv,Medium | Master's,avg_ai_exposure,0.5046796657381616
+AI_Impact_on_Jobs_2030.csv,Medium | PhD,avg_ai_exposure,0.5093888888888889
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Contradiction,n,1281.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Fabrication,n,2013.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Unrelated,n,956.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Contradiction,n,1175.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Fabrication,n,1958.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Unrelated,n,945.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Contradiction,n,1568.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Fabrication,n,2211.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Unrelated,n,1211.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Contradiction,n,1880.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Fabrication,n,2397.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Unrelated,n,1461.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Contradiction,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Fabrication,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Unrelated,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Contradiction,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Fabrication,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Unrelated,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Contradiction,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Fabrication,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Unrelated,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Contradiction,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Fabrication,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Unrelated,hallucination_rate,1.0
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Contradiction,avg_context_faithfulness,0.2018298204527712
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Fabrication,avg_context_faithfulness,0.5019821162444114
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Unrelated,avg_context_faithfulness,0.080836820083682
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Contradiction,avg_context_faithfulness,0.1978731914893617
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Fabrication,avg_context_faithfulness,0.5009862104187948
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Unrelated,avg_context_faithfulness,0.0775026455026455
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Contradiction,avg_context_faithfulness,0.2037327806122448
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Fabrication,avg_context_faithfulness,0.5034337403889643
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Unrelated,avg_context_faithfulness,0.0810503715937241
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Contradiction,avg_context_faithfulness,0.197320744680851
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Fabrication,avg_context_faithfulness,0.4963700458906967
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Unrelated,avg_context_faithfulness,0.0802258726899383
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Contradiction,avg_answer_relevance,0.5959703356752537
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Fabrication,avg_answer_relevance,0.7035166418281172
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Claude-3.5-Sonnet | Unrelated,avg_answer_relevance,0.1790062761506276
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Contradiction,avg_answer_relevance,0.6078297872340426
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Fabrication,avg_answer_relevance,0.7038743615934627
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,GPT-4o | Unrelated,avg_answer_relevance,0.1755333333333333
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Contradiction,avg_answer_relevance,0.5949024234693878
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Fabrication,avg_answer_relevance,0.6982094075079149
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Llama-3-70B | Unrelated,avg_answer_relevance,0.1735020644095788
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Contradiction,avg_answer_relevance,0.6034606382978723
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Fabrication,avg_answer_relevance,0.6970183562786817
+RAG_Context_Adherence_And_Hallucination_Benchmark.csv,Mistral-7B | Unrelated,avg_answer_relevance,0.1720821355236139
+salaries.csv,2020 | EN | L,n,9.0
+salaries.csv,2020 | EN | M,n,2.0
+salaries.csv,2020 | EN | S,n,10.0
+salaries.csv,2020 | EX | L,n,3.0
+salaries.csv,2020 | EX | M,n,1.0
+salaries.csv,2020 | MI | L,n,15.0
+salaries.csv,2020 | MI | M,n,10.0
+salaries.csv,2020 | MI | S,n,6.0
+salaries.csv,2020 | SE | L,n,7.0
+salaries.csv,2020 | SE | M,n,4.0
+salaries.csv,2020 | SE | S,n,8.0
+salaries.csv,2021 | EN | L,n,19.0
+salaries.csv,2021 | EN | M,n,13.0
+salaries.csv,2021 | EN | S,n,14.0
+salaries.csv,2021 | EX | L,n,6.0
+salaries.csv,2021 | EX | M,n,2.0
+salaries.csv,2021 | EX | S,n,2.0
+salaries.csv,2021 | MI | L,n,55.0
+salaries.csv,2021 | MI | M,n,19.0
+salaries.csv,2021 | MI | S,n,13.0
+salaries.csv,2021 | SE | L,n,44.0
+salaries.csv,2021 | SE | M,n,18.0
+salaries.csv,2021 | SE | S,n,13.0
+salaries.csv,2022 | EN | L,n,41.0
+salaries.csv,2022 | EN | M,n,63.0
+salaries.csv,2022 | EN | S,n,13.0
+salaries.csv,2022 | EX | L,n,6.0
+salaries.csv,2022 | EX | M,n,32.0
+salaries.csv,2022 | EX | S,n,4.0
+salaries.csv,2022 | MI | L,n,42.0
+salaries.csv,2022 | MI | M,n,297.0
+salaries.csv,2022 | MI | S,n,20.0
+salaries.csv,2022 | SE | L,n,106.0
+salaries.csv,2022 | SE | M,n,1023.0
+salaries.csv,2022 | SE | S,n,12.0
+salaries.csv,2023 | EN | L,n,51.0
+salaries.csv,2023 | EN | M,n,400.0
+salaries.csv,2023 | EN | S,n,14.0
+salaries.csv,2023 | EX | L,n,6.0
+salaries.csv,2023 | EX | M,n,235.0
+salaries.csv,2023 | EX | S,n,2.0
+salaries.csv,2023 | MI | L,n,104.0
+salaries.csv,2023 | MI | M,n,1588.0
+salaries.csv,2023 | MI | S,n,25.0
+salaries.csv,2023 | SE | L,n,330.0
+salaries.csv,2023 | SE | M,n,5749.0
+salaries.csv,2023 | SE | S,n,18.0
+salaries.csv,2024 | EN | L,n,153.0
+salaries.csv,2024 | EN | M,n,6022.0
+salaries.csv,2024 | EN | S,n,5.0
+salaries.csv,2024 | EX | L,n,4.0
+salaries.csv,2024 | EX | M,n,1187.0
+salaries.csv,2024 | MI | L,n,759.0
+salaries.csv,2024 | MI | M,n,18761.0
+salaries.csv,2024 | MI | S,n,9.0
+salaries.csv,2024 | SE | L,n,629.0
+salaries.csv,2024 | SE | M,n,34682.0
+salaries.csv,2024 | SE | S,n,17.0
+salaries.csv,2025 | EN | L,n,2.0
+salaries.csv,2025 | EN | M,n,46.0
+salaries.csv,2025 | EX | M,n,4.0
+salaries.csv,2025 | MI | L,n,12.0
+salaries.csv,2025 | MI | M,n,116.0
+salaries.csv,2025 | SE | L,n,4.0
+salaries.csv,2025 | SE | M,n,262.0
+salaries.csv,2020 | EN | L,avg_salary_usd,85821.55555555556
+salaries.csv,2020 | EN | M,avg_salary_usd,31362.5
+salaries.csv,2020 | EN | S,avg_salary_usd,63153.5
+salaries.csv,2020 | EX | L,avg_salary_usd,234944.3333333333
+salaries.csv,2020 | EX | M,avg_salary_usd,15000.0
+salaries.csv,2020 | MI | L,avg_salary_usd,87063.26666666666
+salaries.csv,2020 | MI | M,avg_salary_usd,123510.6
+salaries.csv,2020 | MI | S,avg_salary_usd,51157.333333333336
+salaries.csv,2020 | SE | L,avg_salary_usd,157633.0
+salaries.csv,2020 | SE | M,avg_salary_usd,152871.25
+salaries.csv,2020 | SE | S,avg_salary_usd,114926.625
+salaries.csv,2021 | EN | L,avg_salary_usd,64702.21052631579
+salaries.csv,2021 | EN | M,avg_salary_usd,51574.15384615384
+salaries.csv,2021 | EN | S,avg_salary_usd,72821.07142857143
+salaries.csv,2021 | EX | L,avg_salary_usd,193418.8333333333
+salaries.csv,2021 | EX | M,avg_salary_usd,107513.0
+salaries.csv,2021 | EX | S,avg_salary_usd,242870.5
+salaries.csv,2021 | MI | L,avg_salary_usd,97273.81818181818
+salaries.csv,2021 | MI | M,avg_salary_usd,75754.78947368421
+salaries.csv,2021 | MI | S,avg_salary_usd,58753.769230769234
+salaries.csv,2021 | SE | L,avg_salary_usd,132850.86363636365
+salaries.csv,2021 | SE | M,avg_salary_usd,114559.0
+salaries.csv,2021 | SE | S,avg_salary_usd,118594.69230769233
+salaries.csv,2022 | EN | L,avg_salary_usd,70428.82926829268
+salaries.csv,2022 | EN | M,avg_salary_usd,87466.12698412698
+salaries.csv,2022 | EN | S,avg_salary_usd,69180.76923076923
+salaries.csv,2022 | EX | L,avg_salary_usd,114906.83333333331
+salaries.csv,2022 | EX | M,avg_salary_usd,201221.09375
+salaries.csv,2022 | EX | S,avg_salary_usd,173805.5
+salaries.csv,2022 | MI | L,avg_salary_usd,94486.45238095238
+salaries.csv,2022 | MI | M,avg_salary_usd,106494.6228956229
+salaries.csv,2022 | MI | S,avg_salary_usd,64416.4
+salaries.csv,2022 | SE | L,avg_salary_usd,156227.51886792452
+salaries.csv,2022 | SE | M,avg_salary_usd,147248.29325513195
+salaries.csv,2022 | SE | S,avg_salary_usd,117439.75
+salaries.csv,2023 | EN | L,avg_salary_usd,81613.3137254902
+salaries.csv,2023 | EN | M,avg_salary_usd,93266.165
+salaries.csv,2023 | EN | S,avg_salary_usd,61649.0
+salaries.csv,2023 | EX | L,avg_salary_usd,194460.3333333333
+salaries.csv,2023 | EX | M,avg_salary_usd,191810.4765957447
+salaries.csv,2023 | EX | S,avg_salary_usd,86208.0
+salaries.csv,2023 | MI | L,avg_salary_usd,127198.0
+salaries.csv,2023 | MI | M,avg_salary_usd,124028.75944584384
+salaries.csv,2023 | MI | S,avg_salary_usd,93324.36
+salaries.csv,2023 | SE | L,avg_salary_usd,166967.67272727273
+salaries.csv,2023 | SE | M,avg_salary_usd,165545.16002783092
+salaries.csv,2023 | SE | S,avg_salary_usd,97418.83333333331
+salaries.csv,2024 | EN | L,avg_salary_usd,123719.39869281046
+salaries.csv,2024 | EN | M,avg_salary_usd,102990.167718366
+salaries.csv,2024 | EN | S,avg_salary_usd,49684.8
+salaries.csv,2024 | EX | L,avg_salary_usd,155833.0
+salaries.csv,2024 | EX | M,avg_salary_usd,201778.98315080037
+salaries.csv,2024 | MI | L,avg_salary_usd,157401.2279314888
+salaries.csv,2024 | MI | M,avg_salary_usd,145253.19247374873
+salaries.csv,2024 | MI | S,avg_salary_usd,80883.11111111111
+salaries.csv,2024 | SE | L,avg_salary_usd,181280.97933227345
+salaries.csv,2024 | SE | M,avg_salary_usd,175638.80338504122
+salaries.csv,2024 | SE | S,avg_salary_usd,112621.5294117647
+salaries.csv,2025 | EN | L,avg_salary_usd,104004.0
+salaries.csv,2025 | EN | M,avg_salary_usd,82413.71739130435
+salaries.csv,2025 | EX | M,avg_salary_usd,179058.75
+salaries.csv,2025 | MI | L,avg_salary_usd,177209.0
+salaries.csv,2025 | MI | M,avg_salary_usd,130304.1724137931
+salaries.csv,2025 | SE | L,avg_salary_usd,197500.0
+salaries.csv,2025 | SE | M,avg_salary_usd,158346.12595419848
+salaries.csv,2020 | EN | L,avg_remote_ratio,72.22222222222223
+salaries.csv,2020 | EN | M,avg_remote_ratio,50.0
+salaries.csv,2020 | EN | S,avg_remote_ratio,55.0
+salaries.csv,2020 | EX | L,avg_remote_ratio,83.33333333333333
+salaries.csv,2020 | EX | M,avg_remote_ratio,0.0
+salaries.csv,2020 | MI | L,avg_remote_ratio,63.333333333333336
+salaries.csv,2020 | MI | M,avg_remote_ratio,50.0
+salaries.csv,2020 | MI | S,avg_remote_ratio,66.66666666666667
+salaries.csv,2020 | SE | L,avg_remote_ratio,71.42857142857143
+salaries.csv,2020 | SE | M,avg_remote_ratio,75.0
+salaries.csv,2020 | SE | S,avg_remote_ratio,56.25
+salaries.csv,2021 | EN | L,avg_remote_ratio,60.526315789473685
+salaries.csv,2021 | EN | M,avg_remote_ratio,73.07692307692308
+salaries.csv,2021 | EN | S,avg_remote_ratio,78.57142857142857
+salaries.csv,2021 | EX | L,avg_remote_ratio,58.333333333333336
+salaries.csv,2021 | EX | M,avg_remote_ratio,25.0
+salaries.csv,2021 | EX | S,avg_remote_ratio,100.0
+salaries.csv,2021 | MI | L,avg_remote_ratio,70.0
+salaries.csv,2021 | MI | M,avg_remote_ratio,73.6842105263158
+salaries.csv,2021 | MI | S,avg_remote_ratio,57.69230769230769
+salaries.csv,2021 | SE | L,avg_remote_ratio,68.18181818181819
+salaries.csv,2021 | SE | M,avg_remote_ratio,77.77777777777777
+salaries.csv,2021 | SE | S,avg_remote_ratio,80.76923076923077
+salaries.csv,2022 | EN | L,avg_remote_ratio,73.17073170731707
+salaries.csv,2022 | EN | M,avg_remote_ratio,46.82539682539682
+salaries.csv,2022 | EN | S,avg_remote_ratio,80.76923076923077
+salaries.csv,2022 | EX | L,avg_remote_ratio,41.66666666666666
+salaries.csv,2022 | EX | M,avg_remote_ratio,75.0
+salaries.csv,2022 | EX | S,avg_remote_ratio,100.0
+salaries.csv,2022 | MI | L,avg_remote_ratio,75.0
+salaries.csv,2022 | MI | M,avg_remote_ratio,48.98989898989899
+salaries.csv,2022 | MI | S,avg_remote_ratio,72.5
+salaries.csv,2022 | SE | L,avg_remote_ratio,62.264150943396224
+salaries.csv,2022 | SE | M,avg_remote_ratio,53.86119257086999
+salaries.csv,2022 | SE | S,avg_remote_ratio,79.16666666666667
+salaries.csv,2023 | EN | L,avg_remote_ratio,50.0
+salaries.csv,2023 | EN | M,avg_remote_ratio,29.625
+salaries.csv,2023 | EN | S,avg_remote_ratio,60.71428571428572
+salaries.csv,2023 | EX | L,avg_remote_ratio,58.333333333333336
+salaries.csv,2023 | EX | M,avg_remote_ratio,36.17021276595744
+salaries.csv,2023 | EX | S,avg_remote_ratio,75.0
+salaries.csv,2023 | MI | L,avg_remote_ratio,31.25
+salaries.csv,2023 | MI | M,avg_remote_ratio,27.739294710327457
+salaries.csv,2023 | MI | S,avg_remote_ratio,58.0
+salaries.csv,2023 | SE | L,avg_remote_ratio,12.87878787878788
+salaries.csv,2023 | SE | M,avg_remote_ratio,33.45799269438163
+salaries.csv,2023 | SE | S,avg_remote_ratio,80.55555555555556
+salaries.csv,2024 | EN | L,avg_remote_ratio,4.248366013071895
+salaries.csv,2024 | EN | M,avg_remote_ratio,13.63334440385254
+salaries.csv,2024 | EN | S,avg_remote_ratio,40.0
+salaries.csv,2024 | EX | L,avg_remote_ratio,87.5
+salaries.csv,2024 | EX | M,avg_remote_ratio,17.775905644481888
+salaries.csv,2024 | MI | L,avg_remote_ratio,4.808959156785244
+salaries.csv,2024 | MI | M,avg_remote_ratio,16.035925590320346
+salaries.csv,2024 | MI | S,avg_remote_ratio,50.0
+salaries.csv,2024 | SE | L,avg_remote_ratio,5.802861685214626
+salaries.csv,2024 | SE | M,avg_remote_ratio,22.32426042327432
+salaries.csv,2024 | SE | S,avg_remote_ratio,29.41176470588235
+salaries.csv,2025 | EN | L,avg_remote_ratio,0.0
+salaries.csv,2025 | EN | M,avg_remote_ratio,21.73913043478261
+salaries.csv,2025 | EX | M,avg_remote_ratio,0.0
+salaries.csv,2025 | MI | L,avg_remote_ratio,16.666666666666668
+salaries.csv,2025 | MI | M,avg_remote_ratio,17.24137931034483
+salaries.csv,2025 | SE | L,avg_remote_ratio,0.0
+salaries.csv,2025 | SE | M,avg_remote_ratio,19.083969465648856
